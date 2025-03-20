@@ -16,4 +16,4 @@ metadata:
 spec:
   type: tool
   lifecycle: production
-  owner: gammaweb-solutions
+  owner: group:gammaweb-solutions
