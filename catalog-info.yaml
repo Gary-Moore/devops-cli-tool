@@ -12,6 +12,7 @@ metadata:
     github.com/project-slug: Gary-Moore/devops-cli-tool
     backstage.io/source-location: url:https://github.com/Gary-Moore/devops-cli-tool/
     example.com/documentation-link: https://youtrack.domain/wiki/vulcan-cli-guide
+    exmaple.com/teamcity-url: https://teamcity.internal/buildConfiguration/VulcanCLI_Build
 spec:
   type: tool
   lifecycle: production
