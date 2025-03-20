@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1beta1
+kind: Component
+metadata:
+  name: devops-cli
+  description: Internal CLI for platform automation (e.g., TeamCity, Mend.io)
+  tags:
+    - cli
+    - platform-tooling
+    - automation
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: your-org-name/vulcan-cli
+    backstage.io/source-location: url:https://github.com/your-org-name/vulcan-cli
+    example.com/documentation-link: https://youtrack.domain/wiki/vulcan-cli-guide
+spec:
+  type: tool
+  lifecycle: production
+  owner: gammaweb-solutions
