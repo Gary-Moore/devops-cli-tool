@@ -9,8 +9,8 @@ metadata:
     - automation
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: your-org-name/vulcan-cli
-    backstage.io/source-location: url:https://github.com/your-org-name/vulcan-cli
+    github.com/project-slug: Gary-Moore/devops-cli-tool
+    backstage.io/source-location: url:https://github.com/Gary-Moore/devops-cli-tool/
     example.com/documentation-link: https://youtrack.domain/wiki/vulcan-cli-guide
 spec:
   type: tool
