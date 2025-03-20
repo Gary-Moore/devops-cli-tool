@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: gammaweb-solutions
+  description: Platform Engineering Team responsible for internal tooling and developer enablement.
+spec:
+  type: team
+  children: []
